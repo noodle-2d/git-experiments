@@ -7,6 +7,8 @@ List:
 
 New line.
 
+Line added by me.
+
 Second list:
 
 - Why
