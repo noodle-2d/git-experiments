@@ -2,3 +2,4 @@ Some file content (changed in master, merged with feature again)
 Update me!
 Updated.
 Last file line.
+Corrected by another user.
