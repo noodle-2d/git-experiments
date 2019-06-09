@@ -5,6 +5,8 @@ List:
 - First point
 - Second point
 
+Extra line.
+
 Second list:
 
 - Why
