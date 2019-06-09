@@ -5,7 +5,7 @@ List:
 - First point
 - Second point
 
-Extra line.
+New line.
 
 Second list:
 
