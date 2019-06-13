@@ -17,5 +17,3 @@ Second list:
 - New point
 
 Corrected by another user.
-
-Added in master.
